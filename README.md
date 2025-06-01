@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm Chaitanya Sai Terli
 
 ### 🚀 Frontend Software Engineer | Creator | Mentor
@@ -63,7 +62,3 @@ Component-driven development, Clean code, Performance optimization
 
 > “An engineer by profession and a creator by mindset. I love building, learning, and sharing.”
 
-<!--
-Feel free to connect or reach out for collaborations, knowledge-sharing, or just a chat!
--->
-````
